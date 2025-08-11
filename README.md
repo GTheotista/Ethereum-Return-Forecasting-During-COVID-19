@@ -8,21 +8,21 @@
 
 ## I. Business Problem Understanding
 
-The COVID-19 pandemic has had profound effects on global financial markets, including the cryptocurrency sector. Ethereum (ETH), as one of the largest cryptocurrencies by market capitalization, experienced significant volatility during this period. Pandemic-related indicators—such as vaccination progress, booster doses administered, and vaccination rate trends—may have influenced market sentiment and, in turn, short-term ETH price movements.
+The COVID-19 pandemic has had a profound impact on global financial markets, including the cryptocurrency sector. Ethereum (ETH), as one of the largest cryptocurrencies by market capitalization, experienced substantial volatility during this period. Pandemic-related indicators — such as vaccination progress, booster dose administration, and vaccination rate trends — may have influenced investor sentiment and, consequently, short-term ETH price movements.
 
 ### Problem Statement
-- **Investor Perspective:** ETH returns are influenced by a complex set of factors, including global health events. Identifying the extent to which COVID-19-related variables impact ETH returns can support informed trading strategies.  
-- **Analyst Perspective:** Financial analysts require a systematic, data-driven approach to assess the predictive contribution of pandemic-related metrics on ETH performance.
+- **Investor Perspective:** ETH returns are influenced by a complex interplay of market and macro-health factors. Understanding the predictive power of COVID-19-related variables can help traders develop more informed and adaptive strategies.  
+- **Analyst Perspective:** Financial analysts require a systematic, data-driven approach to quantify the contribution of pandemic-related metrics to ETH return forecasting.
 
 ### Goals
 1. Develop a predictive model for Ethereum’s daily log returns using COVID-19 vaccination-related indicators.  
-2. Employ **Genetic Algorithm (GA)** for simultaneous feature selection and hyperparameter optimization of **LightGBM**.  
-3. Evaluate the model’s performance using both statistical accuracy metrics and market-based performance indicators.
+2. Apply a **Genetic Algorithm (GA)** for simultaneous feature selection and hyperparameter optimization of **LightGBM**.  
+3. Assess model performance using both statistical accuracy metrics and financial market performance indicators.
 
 ### Business Impact
-- Enhances decision-making during periods of pandemic-driven market uncertainty.  
+- Improves decision-making during periods of pandemic-driven market uncertainty.  
 - Provides empirical evidence on the relationship between public health developments and cryptocurrency returns.  
-- Supports adaptive portfolio strategies under conditions of elevated volatility.
+- Supports portfolio strategies that adapt to elevated market volatility.
 
 ---
 
